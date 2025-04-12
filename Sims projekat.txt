@@ -1,0 +1,14 @@
+Sims projekat
+
+•U projektu treba a imaju razlicite vrste korisnika: sistem, admin, vlasnici(cerka i zena), treneri i clanovi teretane
+
+registracija: 
+	•podaci: ime, prezime, broj telefona, email
+	•Kada se korisnik registruje dobije svoj QR kod
+
+prijavljivanje: 
+	•preko imejla ili preko broja
+
+Sta se vidi kada se uloguju:
+	•treneri kada se uloguju vide listu klijenata, imaju mogucnost da zakazu trening i da prate napredak klijenata, unesu rekorde korisnika; Treninzi mogu biti grupni ili personalni, trener postavlja koliko ima slobodnih mesta;
+	•clanovi teretane prate svoje treninge, kada vide da je trener zakazao trening prijavljuju svoje prisustvo; kada skeniraju svoj QR kod, sistem proverava da li su dosli u pravi termin
