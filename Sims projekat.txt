@@ -12,3 +12,8 @@ prijavljivanje:
 Sta se vidi kada se uloguju:
 	•treneri kada se uloguju vide listu klijenata, imaju mogucnost da zakazu trening i da prate napredak klijenata, unesu rekorde korisnika; Treninzi mogu biti grupni ili personalni, trener postavlja koliko ima slobodnih mesta;
 	•clanovi teretane prate svoje treninge, kada vide da je trener zakazao trening prijavljuju svoje prisustvo; kada skeniraju svoj QR kod, sistem proverava da li su dosli u pravi termin
+
+**ako nesto treba za class diagram pogledati vezbu 6
+
+○Grebe radi UseCase trener i clan teretane, sistem(vezano za trenera i klijente)
+○Georgije radi UseCase admin,vlasnici, sistem
