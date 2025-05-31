@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp1
+﻿namespace SismProjekat
 {
     partial class Form1
     {
