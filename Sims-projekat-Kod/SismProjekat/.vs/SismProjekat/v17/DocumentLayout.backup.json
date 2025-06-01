@@ -1,12 +1,5 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "WorkspaceRootPath": "D:\\fax\\SIMS\\projekat sims\\Sims-projekat\\Sims-projekat-Kod\\SismProjekat\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|d:\\fax\\sims\\projekat sims\\sims-projekat\\sims-projekat-kod\\sismprojekat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-=======
   "WorkspaceRootPath": "D:\\fax\\SIMS\\novi folder stari projekat\\Sims-projekat\\Sims-projekat-Kod\\SismProjekat\\",
   "Documents": [
     {
@@ -28,7 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\fax\\SIMS\\novi folder stari projekat\\Sims-projekat\\Sims-projekat-Kod\\SismProjekat\\sismprojekat\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sismprojekat\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
->>>>>>> feature-designing-Form
     }
   ],
   "DocumentGroupContainers": [
@@ -38,21 +30,6 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\fax\\SIMS\\projekat sims\\Sims-projekat\\Sims-projekat-Kod\\SismProjekat\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\fax\\SIMS\\projekat sims\\Sims-projekat\\Sims-projekat-Kod\\SismProjekat\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T09:48:24.644Z",
-              "EditorCaption": " [Design]"
-=======
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -115,7 +92,6 @@
               "RelativeToolTip": "..\\..\\..\\..\\projekat sims\\Sims-projekat\\Sims-projekat-Kod\\SismProjekat\\SismProjekat\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-31T09:51:40.958Z"
->>>>>>> feature-designing-Form
             }
           ]
         }
