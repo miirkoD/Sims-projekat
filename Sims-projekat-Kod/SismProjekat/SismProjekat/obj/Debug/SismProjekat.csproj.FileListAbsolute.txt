@@ -6,3 +6,11 @@ D:\fax\SIMS\projekat sims\Sims-projekat\Sims-projekat-Kod\SismProjekat\SismProje
 D:\fax\SIMS\projekat sims\Sims-projekat\Sims-projekat-Kod\SismProjekat\SismProjekat\bin\Debug\SismProjekat.pdb
 D:\fax\SIMS\projekat sims\Sims-projekat\Sims-projekat-Kod\SismProjekat\SismProjekat\obj\Debug\SismProjekat.exe
 D:\fax\SIMS\projekat sims\Sims-projekat\Sims-projekat-Kod\SismProjekat\SismProjekat\obj\Debug\SismProjekat.pdb
+D:\fax\SIMS\novi folder stari projekat\Sims-projekat\Sims-projekat-Kod\SismProjekat\SismProjekat\bin\Debug\SismProjekat.exe
+D:\fax\SIMS\novi folder stari projekat\Sims-projekat\Sims-projekat-Kod\SismProjekat\SismProjekat\bin\Debug\SismProjekat.pdb
+D:\fax\SIMS\novi folder stari projekat\Sims-projekat\Sims-projekat-Kod\SismProjekat\SismProjekat\obj\Debug\SismProjekat.csproj.AssemblyReference.cache
+D:\fax\SIMS\novi folder stari projekat\Sims-projekat\Sims-projekat-Kod\SismProjekat\SismProjekat\obj\Debug\SismProjekat.Properties.Resources.resources
+D:\fax\SIMS\novi folder stari projekat\Sims-projekat\Sims-projekat-Kod\SismProjekat\SismProjekat\obj\Debug\SismProjekat.csproj.GenerateResource.cache
+D:\fax\SIMS\novi folder stari projekat\Sims-projekat\Sims-projekat-Kod\SismProjekat\SismProjekat\obj\Debug\SismProjekat.csproj.CoreCompileInputs.cache
+D:\fax\SIMS\novi folder stari projekat\Sims-projekat\Sims-projekat-Kod\SismProjekat\SismProjekat\obj\Debug\SismProjekat.exe
+D:\fax\SIMS\novi folder stari projekat\Sims-projekat\Sims-projekat-Kod\SismProjekat\SismProjekat\obj\Debug\SismProjekat.pdb
