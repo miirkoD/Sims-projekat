@@ -5,7 +5,13 @@ using System.Text;
 
 namespace SismProjekat.models
 {
-    internal class GrupniTrening:Trening
+    public class GrupniTrening:Trening
     {
+        private int maksimalanBrojUcesnika { get; set; }
+
+        public GrupniTrening(DateTime datumTreninga, int maksimalanBrojUcesnika) : base(datumTreninga)
+        {
+            this.maksimalanBrojUcesnika = maksimalanBrojUcesnika;
+        }
     }
 }
