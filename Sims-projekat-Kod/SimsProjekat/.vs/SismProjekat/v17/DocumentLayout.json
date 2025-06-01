@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\fax\\SIMS\\novi folder stari projekat\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|d:\\fax\\sims\\novi folder stari projekat\\sims-projekat\\sims-projekat-kod\\simsprojekat\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|d:\\fax\\sims\\novi folder stari projekat\\sims-projekat\\sims-projekat-kod\\simsprojekat\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|d:\\fax\\sims\\novi folder stari projekat\\sims-projekat\\sims-projekat-kod\\simsprojekat\\models\\trener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|solutionrelative:models\\trener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|d:\\fax\\sims\\novi folder stari projekat\\sims-projekat\\sims-projekat-kod\\simsprojekat\\models\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|solutionrelative:models\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|d:\\fax\\sims\\novi folder stari projekat\\sims-projekat\\sims-projekat-kod\\simsprojekat\\models\\klijent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|solutionrelative:models\\klijent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|d:\\fax\\sims\\novi folder stari projekat\\sims-projekat\\sims-projekat-kod\\simsprojekat\\models\\trening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|solutionrelative:models\\trening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|d:\\fax\\sims\\novi folder stari projekat\\sims-projekat\\sims-projekat-kod\\simsprojekat\\models\\vezba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|solutionrelative:models\\vezba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|d:\\fax\\sims\\novi folder stari projekat\\sims-projekat\\sims-projekat-kod\\simsprojekat\\models\\personalnitrening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|solutionrelative:models\\personalnitrening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|d:\\fax\\sims\\novi folder stari projekat\\sims-projekat\\sims-projekat-kod\\simsprojekat\\models\\grupnitrening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|solutionrelative:models\\grupnitrening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|d:\\fax\\sims\\novi folder stari projekat\\sims-projekat\\sims-projekat-kod\\simsprojekat\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|d:\\fax\\sims\\novi folder stari projekat\\sims-projekat\\sims-projekat-kod\\simsprojekat\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\fax\\SIMS\\novi folder stari projekat\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "D:\\fax\\SIMS\\novi folder stari projekat\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAASwCYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:30:30.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vezba.cs",
+              "DocumentMoniker": "D:\\fax\\SIMS\\novi folder stari projekat\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\models\\Vezba.cs",
+              "RelativeDocumentMoniker": "models\\Vezba.cs",
+              "ToolTip": "D:\\fax\\SIMS\\novi folder stari projekat\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\models\\Vezba.cs",
+              "RelativeToolTip": "models\\Vezba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:22:54.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Korisnik.cs",
+              "DocumentMoniker": "D:\\fax\\SIMS\\novi folder stari projekat\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\models\\Korisnik.cs",
+              "RelativeDocumentMoniker": "models\\Korisnik.cs",
+              "ToolTip": "D:\\fax\\SIMS\\novi folder stari projekat\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\models\\Korisnik.cs",
+              "RelativeToolTip": "models\\Korisnik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:20:36.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Trening.cs",
+              "DocumentMoniker": "D:\\fax\\SIMS\\novi folder stari projekat\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\models\\Trening.cs",
+              "RelativeDocumentMoniker": "models\\Trening.cs",
+              "ToolTip": "D:\\fax\\SIMS\\novi folder stari projekat\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\models\\Trening.cs",
+              "RelativeToolTip": "models\\Trening.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:19:55.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Trener.cs",
+              "DocumentMoniker": "D:\\fax\\SIMS\\novi folder stari projekat\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\models\\Trener.cs",
+              "RelativeDocumentMoniker": "models\\Trener.cs",
+              "ToolTip": "D:\\fax\\SIMS\\novi folder stari projekat\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\models\\Trener.cs",
+              "RelativeToolTip": "models\\Trener.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAjwDAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:19:54.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonalniTrening.cs",
+              "DocumentMoniker": "D:\\fax\\SIMS\\novi folder stari projekat\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\models\\PersonalniTrening.cs",
+              "RelativeDocumentMoniker": "models\\PersonalniTrening.cs",
+              "ToolTip": "D:\\fax\\SIMS\\novi folder stari projekat\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\models\\PersonalniTrening.cs",
+              "RelativeToolTip": "models\\PersonalniTrening.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:19:54.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GrupniTrening.cs",
+              "DocumentMoniker": "D:\\fax\\SIMS\\novi folder stari projekat\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\models\\GrupniTrening.cs",
+              "RelativeDocumentMoniker": "models\\GrupniTrening.cs",
+              "ToolTip": "D:\\fax\\SIMS\\novi folder stari projekat\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\models\\GrupniTrening.cs",
+              "RelativeToolTip": "models\\GrupniTrening.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:19:46.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Klijent.cs",
+              "DocumentMoniker": "D:\\fax\\SIMS\\novi folder stari projekat\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\models\\Klijent.cs",
+              "RelativeDocumentMoniker": "models\\Klijent.cs",
+              "ToolTip": "D:\\fax\\SIMS\\novi folder stari projekat\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\models\\Klijent.cs",
+              "RelativeToolTip": "models\\Klijent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:19:38.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\fax\\SIMS\\novi folder stari projekat\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\fax\\SIMS\\novi folder stari projekat\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:17:52.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\fax\\SIMS\\novi folder stari projekat\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\fax\\SIMS\\novi folder stari projekat\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:17:22.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\fax\\SIMS\\novi folder stari projekat\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\fax\\SIMS\\novi folder stari projekat\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:17:17.955Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
