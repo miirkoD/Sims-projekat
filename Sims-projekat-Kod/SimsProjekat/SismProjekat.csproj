@@ -58,6 +58,9 @@
     <Compile Include="models\Vezba.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="views\DodajTreningForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="views\KlijentPanel.cs">
       <SubType>UserControl</SubType>
     </Compile>
