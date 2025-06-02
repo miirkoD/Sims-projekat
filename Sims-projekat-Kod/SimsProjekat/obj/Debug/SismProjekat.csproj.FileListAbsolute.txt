@@ -27,3 +27,19 @@ D:\fax\SIMS\novi folder stari projekat\Sims-projekat\Sims-projekat-Kod\SimsProje
 D:\fax\SIMS\novi folder stari projekat\Sims-projekat\Sims-projekat-Kod\SimsProjekat\bin\Debug\Newtonsoft.Json.xml
 D:\fax\SIMS\novi folder stari projekat\Sims-projekat\Sims-projekat-Kod\SimsProjekat\obj\Debug\SismProj.528CBD00.Up2Date
 D:\fax\SIMS\novi folder stari projekat\Sims-projekat\Sims-projekat-Kod\SimsProjekat\bin\Debug\data\vezbe.json
+C:\Users\MirkoD\Desktop\test\Sims-projekat\Sims-projekat-Kod\SimsProjekat\bin\Debug\data\vezbe.json
+C:\Users\MirkoD\Desktop\test\Sims-projekat\Sims-projekat-Kod\SimsProjekat\bin\Debug\SimsProjekat.exe.config
+C:\Users\MirkoD\Desktop\test\Sims-projekat\Sims-projekat-Kod\SimsProjekat\bin\Debug\SimsProjekat.exe
+C:\Users\MirkoD\Desktop\test\Sims-projekat\Sims-projekat-Kod\SimsProjekat\bin\Debug\SimsProjekat.pdb
+C:\Users\MirkoD\Desktop\test\Sims-projekat\Sims-projekat-Kod\SimsProjekat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MirkoD\Desktop\test\Sims-projekat\Sims-projekat-Kod\SimsProjekat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MirkoD\Desktop\test\Sims-projekat\Sims-projekat-Kod\SimsProjekat\obj\Debug\SismProjekat.csproj.AssemblyReference.cache
+C:\Users\MirkoD\Desktop\test\Sims-projekat\Sims-projekat-Kod\SimsProjekat\obj\Debug\SismProjekat.MainForm.resources
+C:\Users\MirkoD\Desktop\test\Sims-projekat\Sims-projekat-Kod\SimsProjekat\obj\Debug\SimsProjekat.Properties.Resources.resources
+C:\Users\MirkoD\Desktop\test\Sims-projekat\Sims-projekat-Kod\SimsProjekat\obj\Debug\SismProjekat.csproj.GenerateResource.cache
+C:\Users\MirkoD\Desktop\test\Sims-projekat\Sims-projekat-Kod\SimsProjekat\obj\Debug\SismProjekat.csproj.CoreCompileInputs.cache
+C:\Users\MirkoD\Desktop\test\Sims-projekat\Sims-projekat-Kod\SimsProjekat\obj\Debug\SismProj.528CBD00.Up2Date
+C:\Users\MirkoD\Desktop\test\Sims-projekat\Sims-projekat-Kod\SimsProjekat\obj\Debug\SimsProjekat.exe
+C:\Users\MirkoD\Desktop\test\Sims-projekat\Sims-projekat-Kod\SimsProjekat\obj\Debug\SimsProjekat.pdb
+C:\Users\MirkoD\Desktop\test\Sims-projekat\Sims-projekat-Kod\SimsProjekat\obj\Debug\SimsProjekat.exe.config
+C:\Users\MirkoD\Desktop\test\Sims-projekat\Sims-projekat-Kod\SimsProjekat\bin\Debug\data\treninzi.json

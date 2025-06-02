@@ -17,6 +17,10 @@ namespace SismProjekat.models
             this.dnevniBrojKlijenata = dnevniBrojKlijenata;
 
         }
+        public Trener() : base()
+        {
+            // Prazan konstruktor za inicijalizaciju bez parametara
+        }
 
         public void zakaziTrening(Trening trening)
         {

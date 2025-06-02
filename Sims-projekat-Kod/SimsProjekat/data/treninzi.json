@@ -1,13 +1,115 @@
-[
-  {
-    "DatumTreninga": "2025-06-01T18:00:00",
-    "Vezbe": [
-      {
-        "Naziv": "Cucanj",
-        "Opis": "Vezba za zadnjicu i noge",
-        "PathSlike": "resources/images/vezbe/cucanj.png"
+{
+  "$type": "System.Collections.Generic.List`1[[SismProjekat.models.Trening, SimsProjekat]], mscorlib",
+  "$values": [
+    {
+      "$type": "SismProjekat.models.GrupniTrening, SimsProjekat",
+      "MaksimalanBrojUcesnika": 10,
+      "DatumTreninga": "2025-06-01T18:00:00",
+      "Vezbe": {
+        "$type": "System.Collections.Generic.List`1[[SismProjekat.models.Vezba, SimsProjekat]], mscorlib",
+        "$values": [
+          {
+            "$type": "SismProjekat.models.Vezba, SimsProjekat",
+            "Naziv": "Cucanj",
+            "Opis": "Vezba za zadnjicu i noge",
+            "PathSlike": "resources/images/vezbe/cucanj.png"
+          }
+        ]
       }
-    ]
-
-  }
-]
+    },
+    {
+      "$type": "SismProjekat.models.PersonalniTrening, SimsProjekat",
+      "ImeIPrezimeKlijenta": "Mirko",
+      "DatumTreninga": "2025-06-02T16:49:54.8091023+02:00",
+      "Vezbe": {
+        "$type": "System.Collections.Generic.List`1[[SismProjekat.models.Vezba, SimsProjekat]], mscorlib",
+        "$values": [
+          {
+            "$type": "SismProjekat.models.Vezba, SimsProjekat",
+            "Naziv": "Cucanj",
+            "Opis": "Vezba za zadnjicu i noge",
+            "PathSlike": "resources/images/vezbe/cucanj.png"
+          },
+          {
+            "$type": "SismProjekat.models.Vezba, SimsProjekat",
+            "Naziv": "Mrtvo dizanje",
+            "Opis": "Vezba za zadnjicu i noge",
+            "PathSlike": "resources/images/vezbe/mrtvo_dizanje.png"
+          }
+        ]
+      }
+    },
+    {
+      "$type": "SismProjekat.models.PersonalniTrening, SimsProjekat",
+      "ImeIPrezimeKlijenta": "Miki Dabarcic",
+      "DatumTreninga": "2025-06-02T17:56:17.0252168+02:00",
+      "Vezbe": {
+        "$type": "System.Collections.Generic.List`1[[SismProjekat.models.Vezba, SimsProjekat]], mscorlib",
+        "$values": [
+          {
+            "$type": "SismProjekat.models.Vezba, SimsProjekat",
+            "Naziv": "Cucanj",
+            "Opis": "Vezba za zadnjicu i noge",
+            "PathSlike": "resources/images/vezbe/cucanj.png"
+          },
+          {
+            "$type": "SismProjekat.models.Vezba, SimsProjekat",
+            "Naziv": "Bench press",
+            "Opis": "Vezba za grudi",
+            "PathSlike": "resources/images/vezbe/bench.png"
+          },
+          {
+            "$type": "SismProjekat.models.Vezba, SimsProjekat",
+            "Naziv": "Mrtvo dizanje",
+            "Opis": "Vezba za zadnjicu i noge",
+            "PathSlike": "resources/images/vezbe/mrtvo_dizanje.png"
+          }
+        ]
+      }
+    },
+    {
+      "$type": "SismProjekat.models.PersonalniTrening, SimsProjekat",
+      "ImeIPrezimeKlijenta": "Georgije Ignjatov",
+      "DatumTreninga": "2025-06-02T17:56:34.4070823+02:00",
+      "Vezbe": {
+        "$type": "System.Collections.Generic.List`1[[SismProjekat.models.Vezba, SimsProjekat]], mscorlib",
+        "$values": [
+          {
+            "$type": "SismProjekat.models.Vezba, SimsProjekat",
+            "Naziv": "Mrtvo dizanje",
+            "Opis": "Vezba za zadnjicu i noge",
+            "PathSlike": "resources/images/vezbe/mrtvo_dizanje.png"
+          },
+          {
+            "$type": "SismProjekat.models.Vezba, SimsProjekat",
+            "Naziv": "Sklekovi",
+            "Opis": "Vezba za grudi",
+            "PathSlike": "resources/images/vezbe/sklek.png"
+          }
+        ]
+      }
+    },
+    {
+      "$type": "SismProjekat.models.GrupniTrening, SimsProjekat",
+      "MaksimalanBrojUcesnika": 5,
+      "DatumTreninga": "2025-06-04T17:56:56",
+      "Vezbe": {
+        "$type": "System.Collections.Generic.List`1[[SismProjekat.models.Vezba, SimsProjekat]], mscorlib",
+        "$values": [
+          {
+            "$type": "SismProjekat.models.Vezba, SimsProjekat",
+            "Naziv": "Cucanj",
+            "Opis": "Vezba za zadnjicu i noge",
+            "PathSlike": "resources/images/vezbe/cucanj.png"
+          },
+          {
+            "$type": "SismProjekat.models.Vezba, SimsProjekat",
+            "Naziv": "Sklekovi",
+            "Opis": "Vezba za grudi",
+            "PathSlike": "resources/images/vezbe/sklek.png"
+          }
+        ]
+      }
+    }
+  ]
+}

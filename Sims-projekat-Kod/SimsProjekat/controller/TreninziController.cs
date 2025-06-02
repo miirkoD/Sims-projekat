@@ -11,9 +11,18 @@ namespace SimsProjekat.controller
 {
     public class TreninziController
     {
-        private string putanjaDoJson = AppDomain.CurrentDomain.BaseDirectory + @"data\treninzi.json";
+        //putanja do bin/debuug/data/treninzi.json
+        //private string putanjaDoJson = AppDomain.CurrentDomain.BaseDirectory + @"data\treninzi.json";
+        //putanja do data/treninzi.json
+        private readonly string putanjaDoJson = Path.Combine(Application.StartupPath, @"..\..\data\treninzi.json");
 
         private List<Trening> treninzi;
+
+        private static readonly JsonSerializerSettings jsonSettongs= new JsonSerializerSettings
+        {
+            TypeNameHandling = TypeNameHandling.All,
+            Formatting = Formatting.Indented
+        };
 
         public TreninziController()
         {
@@ -29,7 +38,9 @@ namespace SimsProjekat.controller
             try
             {
                 string json = File.ReadAllText(putanjaDoJson);
-                return JsonConvert.DeserializeObject < List<Trening>>(json) ?? new List<Trening>() ;
+                var lista= JsonConvert.DeserializeObject<List<Trening>>(json, jsonSettongs);
+                return lista ?? new List<Trening>();
+                
             }catch(Exception ex)
             {
                 MessageBox.Show("Greska prilikom ucitavanja treninga: " + ex.Message);
@@ -73,7 +84,7 @@ namespace SimsProjekat.controller
         {
             try
             {
-                string json = JsonConvert.SerializeObject(treninzi, Formatting.Indented);
+                string json = JsonConvert.SerializeObject(treninzi, jsonSettongs);
                 File.WriteAllText(putanjaDoJson, json);
             }
             catch (Exception ex)
