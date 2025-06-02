@@ -23,3 +23,7 @@ D:\fax\SIMS\novi folder stari projekat\Sims-projekat\Sims-projekat-Kod\SimsProje
 D:\fax\SIMS\novi folder stari projekat\Sims-projekat\Sims-projekat-Kod\SimsProjekat\bin\Debug\SimsProjekat.pdb
 D:\fax\SIMS\novi folder stari projekat\Sims-projekat\Sims-projekat-Kod\SimsProjekat\obj\Debug\SimsProjekat.exe
 D:\fax\SIMS\novi folder stari projekat\Sims-projekat\Sims-projekat-Kod\SimsProjekat\obj\Debug\SimsProjekat.pdb
+D:\fax\SIMS\novi folder stari projekat\Sims-projekat\Sims-projekat-Kod\SimsProjekat\bin\Debug\Newtonsoft.Json.dll
+D:\fax\SIMS\novi folder stari projekat\Sims-projekat\Sims-projekat-Kod\SimsProjekat\bin\Debug\Newtonsoft.Json.xml
+D:\fax\SIMS\novi folder stari projekat\Sims-projekat\Sims-projekat-Kod\SimsProjekat\obj\Debug\SismProj.528CBD00.Up2Date
+D:\fax\SIMS\novi folder stari projekat\Sims-projekat\Sims-projekat-Kod\SimsProjekat\bin\Debug\data\vezbe.json

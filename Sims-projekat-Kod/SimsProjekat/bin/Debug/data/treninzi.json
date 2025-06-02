@@ -1,0 +1,22 @@
+[
+  {
+    "DatumTreninga": "2025-06-08T14:33:06",
+    "Vezbe": [
+      {
+        "Naziv": "Cucanj",
+        "Opis": "Vezba za zadnjicu i noge",
+        "PathSlike": "resources/images/vezbe/cucanj.png"
+      },
+      {
+        "Naziv": "Mrtvo dizanje",
+        "Opis": "Vezba za zadnjicu i noge",
+        "PathSlike": "resources/images/vezbe/mrtvo_dizanje.png"
+      },
+      {
+        "Naziv": "Sklekovi",
+        "Opis": "Vezba za grudi",
+        "PathSlike": "resources/images/vezbe/sklek.png"
+      }
+    ]
+  }
+]

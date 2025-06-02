@@ -13,5 +13,6 @@ namespace SismProjekat.models
         {
             this.imeIPrezimeKlijenta = imeIPrezimeKlijenta;
         }
+        public PersonalniTrening(DateTime datumTreninga) : base(datumTreninga) { }
     }
 }

@@ -13,5 +13,9 @@ namespace SismProjekat.models
         {
             this.maksimalanBrojUcesnika = maksimalanBrojUcesnika;
         }
+        public GrupniTrening(DateTime datumTreninga) : base(datumTreninga)
+        {
+           
+        }
     }
 }

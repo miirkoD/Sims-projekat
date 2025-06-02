@@ -7,19 +7,20 @@ namespace SismProjekat.models
 {
     public class Trening
     {
-        private DateTime datumTreninga { get; set; }
-        private List<Vezba> vezbe { get;}
+        public DateTime DatumTreninga { get; set; }
+        public List<Vezba> Vezbe { get; set; }
 
         public Trening(DateTime datumTreninga)
         {
-            this.datumTreninga = datumTreninga;
+            this.DatumTreninga = datumTreninga;
+            this.Vezbe = new List<Vezba>();
         }
 
         public void dodajVezbu(Vezba vezba)
         {
             if (vezba != null)
             {
-                vezbe.Add(vezba);
+                this.Vezbe.Add(vezba);
                 Console.WriteLine($"Vežba {vezba.Naziv} je dodata na trening.");
             }
             else
@@ -30,9 +31,9 @@ namespace SismProjekat.models
 
         public void ukloniVezbu(Vezba vezba)
         {
-            if (vezbe.Contains(vezba))
+            if (this.Vezbe.Contains(vezba))
             {
-                vezbe.Remove(vezba);
+                this.Vezbe.Remove(vezba);
                 Console.WriteLine($"Vežba {vezba.Naziv} je uklonjena sa treninga.");
             }
             else

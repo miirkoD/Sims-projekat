@@ -4,15 +4,17 @@ namespace SismProjekat.models
 {
     public class Vezba
     {
-        protected string naziv { get; set; }
-        protected string opis { get; set; }
+        public string Naziv { get; set; }
+        public string Opis { get; set; }
+
+        public string PathSlike {  get; set; }
 
         public Vezba() { }
 
         public Vezba(string naziv, string opis)
         {
-            this.naziv = naziv;
-            this.opis = opis;
+            this.Naziv = naziv;
+            this.Opis = opis;
         }
 
         public void dodajSliku()
@@ -20,13 +22,9 @@ namespace SismProjekat.models
             Console.WriteLine("Slika je dodata");
         }
 
-        public string Naziv
+        public override string ToString()
         {
-            get { return naziv; }
-        }
-        public string Opis
-        {
-            get { return opis; }
+            return Naziv;
         }
     }
 }
