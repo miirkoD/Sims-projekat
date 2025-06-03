@@ -4,6 +4,7 @@
     {
       "$type": "SismProjekat.models.GrupniTrening, SimsProjekat",
       "MaksimalanBrojUcesnika": 10,
+      "BrojUcesnika": 0,
       "DatumTreninga": "2025-06-01T18:00:00",
       "Vezbe": {
         "$type": "System.Collections.Generic.List`1[[SismProjekat.models.Vezba, SimsProjekat]], mscorlib",
@@ -92,6 +93,7 @@
     {
       "$type": "SismProjekat.models.GrupniTrening, SimsProjekat",
       "MaksimalanBrojUcesnika": 5,
+      "BrojUcesnika": 0,
       "DatumTreninga": "2025-06-04T17:56:56",
       "Vezbe": {
         "$type": "System.Collections.Generic.List`1[[SismProjekat.models.Vezba, SimsProjekat]], mscorlib",
@@ -107,6 +109,22 @@
             "Naziv": "Sklekovi",
             "Opis": "Vezba za grudi",
             "PathSlike": "resources/images/vezbe/sklek.png"
+          }
+        ]
+      }
+    },
+    {
+      "$type": "SismProjekat.models.PersonalniTrening, SimsProjekat",
+      "ImeIPrezimeKlijenta": "Georgije Ignjatov",
+      "DatumTreninga": "2025-06-18T17:37:53",
+      "Vezbe": {
+        "$type": "System.Collections.Generic.List`1[[SismProjekat.models.Vezba, SimsProjekat]], mscorlib",
+        "$values": [
+          {
+            "$type": "SismProjekat.models.Vezba, SimsProjekat",
+            "Naziv": "Cucanj",
+            "Opis": "Vezba za zadnjicu i noge",
+            "PathSlike": "resources/images/vezbe/cucanj.png"
           }
         ]
       }

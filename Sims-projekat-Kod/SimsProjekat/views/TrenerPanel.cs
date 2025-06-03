@@ -56,7 +56,7 @@ namespace SismProjekat.views
 
             foreach (var trening in sviTreninzi)
             {
-                string prikaz = $"Trening - {trening.DatumTreninga.ToShortDateString()}{trening.DatumTreninga.ToShortTimeString()}";
+                string prikaz = $"Trening - {trening.DatumTreninga.ToShortDateString()} {trening.DatumTreninga.ToShortTimeString()}";
                 treningList.Items.Add(prikaz);
             }
         }
