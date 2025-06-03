@@ -11,7 +11,7 @@ namespace SimsProjekat.controller
 {
     public class TreninziController
     {
-        //putanja do bin/debuug/data/treninzi.json
+        //putanja do bin/debug/data/treninzi.json
         //private string putanjaDoJson = AppDomain.CurrentDomain.BaseDirectory + @"data\treninzi.json";
         //putanja do data/treninzi.json
         private readonly string putanjaDoJson = Path.Combine(Application.StartupPath, @"..\..\data\treninzi.json");

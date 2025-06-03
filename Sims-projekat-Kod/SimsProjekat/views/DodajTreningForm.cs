@@ -131,7 +131,8 @@ namespace SimsProjekat.views
                     MessageBox.Show("Maksimalan broj klijenata mora biti bar 1");
                     return;
                 }
-                var grupni=new GrupniTrening(datum, (int)maxKlijenata);
+                var brojUcesnika = 0;
+                var grupni=new GrupniTrening(datum, (int)maxKlijenata, brojUcesnika);
                 noviTrening = grupni;
             }
             else

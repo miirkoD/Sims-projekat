@@ -1,4 +1,6 @@
-﻿using System;
+﻿using SimsProjekat.controller;
+using SismProjekat.models;
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
@@ -9,10 +11,11 @@ namespace SismProjekat.views
 {
     public partial class KlijentPanel:UserControl
     {
+        private TreninziController treninziController = new TreninziController();
+
         private TextBox imeInput;
         private ListBox personalniList;
         private ListBox grupniList;
-
         public KlijentPanel()
         {
 
@@ -34,9 +37,9 @@ namespace SismProjekat.views
             };
             layout.RowStyles.Add(new RowStyle(SizeType.AutoSize));
             layout.RowStyles.Add(new RowStyle(SizeType.AutoSize));
-            layout.RowStyles.Add(new RowStyle(SizeType.Absolute,20));
+            layout.RowStyles.Add(new RowStyle(SizeType.Absolute,120));
             layout.RowStyles.Add(new RowStyle(SizeType.AutoSize));
-            layout.RowStyles.Add(new RowStyle(SizeType.AutoSize));
+            layout.RowStyles.Add(new RowStyle(SizeType.Absolute,120));
 
             FlowLayoutPanel unosLayout = new FlowLayoutPanel
             {
@@ -96,21 +99,49 @@ namespace SismProjekat.views
             layout.Controls.Add(grupniLabel);
             layout.Controls.Add(grupniList);
 
+            //personalniList.Items.Add("test trening");
+            //grupniList.Items.Add("test grupni trening");
+
             this.Controls.Add(layout);
 
-            pretragaBtn.Click += (s, e) =>
+            pretragaBtn.Click += PretragaBtn_CLick;
+
+        }
+
+        private void PretragaBtn_CLick(object sender, EventArgs e)
+        {
+            string ime = imeInput.Text.Trim();
+            if (string.IsNullOrEmpty(ime))
             {
-                string ime = imeInput.Text.Trim();
-                if (!string.IsNullOrEmpty(ime))
+                MessageBox.Show("Unesite ime klijenta");
+            }
+            personalniList.Items.Clear();
+            grupniList.Items.Clear();
+
+            var sviTreninzi = treninziController.DobaviSveTreninge();
+
+            Console.WriteLine("ime klijenta: " + ime);
+
+            foreach (var trening in sviTreninzi)
+            {
+                if(trening is PersonalniTrening pt && pt.ImeIPrezimeKlijenta.Equals(ime, StringComparison.OrdinalIgnoreCase))
                 {
-                    personalniList.Items.Clear();
-                    grupniList.Items.Add(ime);
-
-                    personalniList.Items.Add($"Perosnalni trening za {ime} - 12.06. 17:00");
-                    grupniList.Items.Add($"Grupni treninz - 14.06. 18:00");
+                    personalniList.Items.Add($"Personalni - {pt.DatumTreninga:g}");
+                }else if(trening is GrupniTrening gt && gt.BrojUcesnika < gt.MaksimalanBrojUcesnika)
+                {
+                    grupniList.Items.Add($"Grupni ({gt.BrojUcesnika}/{gt.MaksimalanBrojUcesnika}) - {gt.DatumTreninga:g}");
                 }
-            };
+            }
 
+            if (personalniList.Items.Count == 0)
+            {
+                personalniList.Items.Add("Nema personalnih treninga za ovog klijenta.");
+            }
+
+            if (grupniList.Items.Count == 0)
+            {
+                grupniList.Items.Add("Nema grupnih treninga sa slobodnim mestima.");
+            }
         }
     }
 }

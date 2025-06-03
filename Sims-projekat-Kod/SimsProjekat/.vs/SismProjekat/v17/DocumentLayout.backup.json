@@ -1,38 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MirkoD\\Desktop\\test\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\",
+  "WorkspaceRootPath": "C:\\Users\\MirkoD\\Desktop\\mirko fax\\sims\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|c:\\users\\mirkod\\desktop\\test\\sims-projekat\\sims-projekat-kod\\simsprojekat\\models\\grupnitrening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|solutionrelative:models\\grupnitrening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|c:\\users\\mirkod\\desktop\\mirko fax\\sims\\sims-projekat\\sims-projekat-kod\\simsprojekat\\views\\klijentpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|solutionrelative:views\\klijentpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|c:\\users\\mirkod\\desktop\\test\\sims-projekat\\sims-projekat-kod\\simsprojekat\\models\\personalnitrening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|solutionrelative:models\\personalnitrening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|c:\\users\\mirkod\\desktop\\test\\sims-projekat\\sims-projekat-kod\\simsprojekat\\models\\trening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|solutionrelative:models\\trening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|c:\\users\\mirkod\\desktop\\test\\sims-projekat\\sims-projekat-kod\\simsprojekat\\controller\\treninzicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|solutionrelative:controller\\treninzicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|C:\\Users\\MirkoD\\Desktop\\test\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\views\\trenerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|solutionrelative:views\\trenerpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|c:\\users\\mirkod\\desktop\\test\\sims-projekat\\sims-projekat-kod\\simsprojekat\\data\\treninzi.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|c:\\users\\mirkod\\desktop\\mirko fax\\sims\\sims-projekat\\sims-projekat-kod\\simsprojekat\\data\\treninzi.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|solutionrelative:data\\treninzi.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|C:\\Users\\MirkoD\\Desktop\\test\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|c:\\users\\mirkod\\desktop\\mirko fax\\sims\\sims-projekat\\sims-projekat-kod\\simsprojekat\\views\\dodajtreningform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|solutionrelative:views\\dodajtreningform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|C:\\Users\\MirkoD\\Desktop\\test\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\views\\dodajtreningform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|solutionrelative:views\\dodajtreningform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|c:\\users\\mirkod\\desktop\\mirko fax\\sims\\sims-projekat\\sims-projekat-kod\\simsprojekat\\models\\grupnitrening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|solutionrelative:models\\grupnitrening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|C:\\Users\\MirkoD\\Desktop\\mirko fax\\sims\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAAEB9-1F8B-4175-BCC4-061C377FD2C1}|SismProjekat.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,106 +30,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GrupniTrening.cs",
-              "DocumentMoniker": "C:\\Users\\MirkoD\\Desktop\\test\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\models\\GrupniTrening.cs",
-              "RelativeDocumentMoniker": "models\\GrupniTrening.cs",
-              "ToolTip": "C:\\Users\\MirkoD\\Desktop\\test\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\models\\GrupniTrening.cs",
-              "RelativeToolTip": "models\\GrupniTrening.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T16:17:54.937Z",
+              "DocumentIndex": 1,
+              "Title": "treninzi.json",
+              "DocumentMoniker": "C:\\Users\\MirkoD\\Desktop\\mirko fax\\sims\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\data\\treninzi.json",
+              "RelativeDocumentMoniker": "data\\treninzi.json",
+              "ToolTip": "C:\\Users\\MirkoD\\Desktop\\mirko fax\\sims\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\data\\treninzi.json",
+              "RelativeToolTip": "data\\treninzi.json",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-03T14:30:08.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Trening.cs",
-              "DocumentMoniker": "C:\\Users\\MirkoD\\Desktop\\test\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\models\\Trening.cs",
-              "RelativeDocumentMoniker": "models\\Trening.cs",
-              "ToolTip": "C:\\Users\\MirkoD\\Desktop\\test\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\models\\Trening.cs",
-              "RelativeToolTip": "models\\Trening.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "DodajTreningForm.cs",
+              "DocumentMoniker": "C:\\Users\\MirkoD\\Desktop\\mirko fax\\sims\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\views\\DodajTreningForm.cs",
+              "RelativeDocumentMoniker": "views\\DodajTreningForm.cs",
+              "ToolTip": "C:\\Users\\MirkoD\\Desktop\\mirko fax\\sims\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\views\\DodajTreningForm.cs",
+              "RelativeToolTip": "views\\DodajTreningForm.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAmwIUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T16:17:15.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonalniTrening.cs",
-              "DocumentMoniker": "C:\\Users\\MirkoD\\Desktop\\test\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\models\\PersonalniTrening.cs",
-              "RelativeDocumentMoniker": "models\\PersonalniTrening.cs",
-              "ToolTip": "C:\\Users\\MirkoD\\Desktop\\test\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\models\\PersonalniTrening.cs",
-              "RelativeToolTip": "models\\PersonalniTrening.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T16:04:50.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "treninzi.json",
-              "DocumentMoniker": "C:\\Users\\MirkoD\\Desktop\\test\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\data\\treninzi.json",
-              "RelativeDocumentMoniker": "data\\treninzi.json",
-              "ToolTip": "C:\\Users\\MirkoD\\Desktop\\test\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\data\\treninzi.json",
-              "RelativeToolTip": "data\\treninzi.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-02T14:50:10.59Z",
+              "WhenOpened": "2025-06-03T14:18:17.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TreninziController.cs",
-              "DocumentMoniker": "C:\\Users\\MirkoD\\Desktop\\test\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\controller\\TreninziController.cs",
-              "RelativeDocumentMoniker": "controller\\TreninziController.cs",
-              "ToolTip": "C:\\Users\\MirkoD\\Desktop\\test\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\controller\\TreninziController.cs",
-              "RelativeToolTip": "controller\\TreninziController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAuwEoAAAA1AAAAAAAAAA==",
+              "Title": "GrupniTrening.cs",
+              "DocumentMoniker": "C:\\Users\\MirkoD\\Desktop\\mirko fax\\sims\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\models\\GrupniTrening.cs",
+              "RelativeDocumentMoniker": "models\\GrupniTrening.cs",
+              "ToolTip": "C:\\Users\\MirkoD\\Desktop\\mirko fax\\sims\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\models\\GrupniTrening.cs",
+              "RelativeToolTip": "models\\GrupniTrening.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T11:55:25.623Z",
+              "WhenOpened": "2025-06-03T14:03:48.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DodajTreningForm.cs",
-              "DocumentMoniker": "C:\\Users\\MirkoD\\Desktop\\test\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\views\\DodajTreningForm.cs",
-              "RelativeDocumentMoniker": "views\\DodajTreningForm.cs",
-              "ToolTip": "C:\\Users\\MirkoD\\Desktop\\test\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\views\\DodajTreningForm.cs",
-              "RelativeToolTip": "views\\DodajTreningForm.cs",
-              "ViewState": "AgIAAJoAAAAAAAAAAAAcwLUAAABJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "KlijentPanel.cs",
+              "DocumentMoniker": "C:\\Users\\MirkoD\\Desktop\\mirko fax\\sims\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\views\\KlijentPanel.cs",
+              "RelativeDocumentMoniker": "views\\KlijentPanel.cs",
+              "ToolTip": "C:\\Users\\MirkoD\\Desktop\\mirko fax\\sims\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\views\\KlijentPanel.cs",
+              "RelativeToolTip": "views\\KlijentPanel.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwCkAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T15:23:21.811Z",
+              "WhenOpened": "2025-06-03T11:55:37.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "TrenerPanel.cs",
-              "DocumentMoniker": "C:\\Users\\MirkoD\\Desktop\\test\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\views\\TrenerPanel.cs",
-              "RelativeDocumentMoniker": "views\\TrenerPanel.cs",
-              "ToolTip": "C:\\Users\\MirkoD\\Desktop\\test\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\views\\TrenerPanel.cs",
-              "RelativeToolTip": "views\\TrenerPanel.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEkAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T15:18:52.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\MirkoD\\Desktop\\test\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\MirkoD\\Desktop\\mirko fax\\sims\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "C:\\Users\\MirkoD\\Desktop\\test\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\MainForm.cs",
+              "ToolTip": "C:\\Users\\MirkoD\\Desktop\\mirko fax\\sims\\Sims-projekat\\Sims-projekat-Kod\\SimsProjekat\\MainForm.cs",
               "RelativeToolTip": "MainForm.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAADwvxsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
